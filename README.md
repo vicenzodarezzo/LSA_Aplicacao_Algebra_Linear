@@ -3,4 +3,6 @@ Neste repositório se encontram os materiais relativos ao desenvolvido durante a
 
 Sobre a luz da teoria algébrica, desenvolvemos uma aplicação da Análise Semântica Latente (LSA) - uma aplicação da Decomposição por Valores Singulares (SVD) sobre dados textuais modelados em matrizes.
 
-Todo o código e texto referenciado foi desenvolvido por Gabriel da Costa Merlin, João Pedro Mori Machado e Vicenzo D`Arezzo Zilio. Junto ao notebook, no repositório se encontra o link para vídeo de uma breve apresentação do trabalho e dos resultados.
+Todo o código e texto referenciado foi desenvolvido por Gabriel da Costa Merlin, João Pedro Mori Machado e Vicenzo D`Arezzo Zilio.
+
+Link para um vídeo em que se apresenta o trabalho e os resultados: (Redirecionamento ao Drive)[https://drive.google.com/file/d/1EY_oeEmykS5fjfx5hk2vNBSO8ITCUFNg/view]
