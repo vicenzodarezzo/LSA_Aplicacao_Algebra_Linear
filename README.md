@@ -5,4 +5,4 @@ Sobre a luz da teoria algébrica, desenvolvemos uma aplicação da Análise Sem�
 
 Todo o código e texto referenciado foi desenvolvido por Gabriel da Costa Merlin, João Pedro Mori Machado e Vicenzo D`Arezzo Zilio.
 
-Link para um vídeo em que se apresenta o trabalho e os resultados: (Redirecionamento ao Drive)[https://drive.google.com/file/d/1EY_oeEmykS5fjfx5hk2vNBSO8ITCUFNg/view]
+Link para um vídeo em que se apresenta o trabalho e os resultados: [Redirecionamento ao Drive](https://drive.google.com/file/d/1EY_oeEmykS5fjfx5hk2vNBSO8ITCUFNg/view)
